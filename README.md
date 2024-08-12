@@ -4,6 +4,7 @@
 - Ask for the user's name before starting the chat.
 - Validates user input based on predefined keywords for each category.
 - Displays chat history.
+- Plus no need of large datasets instead i used daily life keywords which saves the space of the code.
 
 ## Installation
 
